@@ -11,3 +11,4 @@ if __name__ == "__main__":
     name="car"
     price=24000
     yop=2021
+    print(vehicle_details(v_ID, name, price, yop))
